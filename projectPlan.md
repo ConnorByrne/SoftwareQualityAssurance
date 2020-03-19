@@ -7,7 +7,7 @@ The project has been divided up in terms of articles, and a coresponding wordcou
 Each topic will contain 1000 words and must be contributed too by at least two team members.
 Too achieve this we will be implementing the following strategy:
 
-![alt text](C:\Users\i352770\OneDrive - SAP SE\Documents\SoftwareQualityAssurance\Cature.PNG "Strategy Diagram")
+![alt text](Capture.PNG "Strategy Diagram")
 
 Person A(Connor Byrne) will be responsible for finding 4 articles on the topic of Task Estimation, and writting a total of 800 word on the topic.
 
