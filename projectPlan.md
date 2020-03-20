@@ -51,7 +51,7 @@ Finaly Person D (Amnah Alfailakawi) will contribute fewer articles (3) but a hig
 
 6. Find diagrams that can be included to make topic more scanable.
 
-### Person C Tasks Gabriel Lupu
+### Person C Tasks 
 
 1. Find 2 articles on the topic of Coding Standards.
 
