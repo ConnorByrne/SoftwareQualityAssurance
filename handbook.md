@@ -63,7 +63,7 @@ The monetary cost of each task can be determined by considering the wages of all
 
 ### 5. Review your estimation after launch
 
-Task estimation, like any skill, can be honed and improved over time. 
+Task estimation, like any skill, can be honed and improved over time.
 
 To this end, when your project finally reaches its conclusion it is important to have a retrospective review of your estimation. During your review, try to recognise where your estimation was accurate, and where you missed the mark. Helpful questions to ask yourself include:
 
@@ -72,3 +72,21 @@ To this end, when your project finally reaches its conclusion it is important to
 * Where should you have attempted to understand the requirements of a task more completely before attempting to add it to a timeline?
 * Where there any unforeseen barricades? Could you have predicted these if you had known what to look for? How will this affect your planning for your next project.
 * Was there scope-creep? How did it effect the development of the project? How will you prepare for this in the future? Is there a certain point that you should have refused to add anymore functionality to the current iteration and instead promised to add it in later versions?
+
+### Further Reading
+
+Effort estimation in agile software development: a systematic literature review
+
+<https://dl.acm.org/doi/abs/10.1145/2639490.2639503>
+
+Recent Advances in Software Estimation Techniques
+
+<https://dl.acm.org/doi/pdf/10.1145/143062.143155>
+
+An Effort Estimation Model for Agile Software Development
+
+<https://www.researchgate.net/profile/Zia_Ziauddin2/publication/268186219_An_Effort_Estimation_Model_for_Agile_Software_Development/links/56c3ce2308aee3dcd4167c78.pd>
+
+Software Project Effort and Cost Estimation Techniques
+
+<https://www.semanticscholar.org/paper/Software-Project-Effort-and-Cost-Estimation-Borade-Khalkar/fe621365d9d8caffeacddeaa910070fb496ab881>
