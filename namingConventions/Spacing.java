@@ -1,7 +1,6 @@
 package namingconventions;
 
 /**
- * 
  * @author C15339336
  * This class defines the spacing we use
  */
