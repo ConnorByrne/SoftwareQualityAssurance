@@ -1,6 +1,6 @@
                                 Code Review
 
-                                In software Engineering, one of the most important task is to assure the quality of the code. Software engineering teams that are based on agile model highly depends on code review to ensure the software quality since the work in agile teams is generally decentralized accross the team members. It is highly possible in software engineering teams that other team members also know the specifics of different part of code other than the one they are working on. As per the article published in Atlassian, every team member of the agile team works on the specific feature of the whole product.  The programmers introduce new features, modify the code of the existing features or remove any problem or errors from the existing code. 
+    In software Engineering, one of the most important task is to assure the quality of the code. Software engineering teams that are based on agile model highly depends on code review to ensure the software quality since the work in agile teams is generally decentralized accross the team members. It is highly possible in software engineering teams that other team members also know the specifics of different part of code other than the one they are working on. As per the article published in Atlassian, every team member of the agile team works on the specific feature of the whole product.  The programmers introduce new features, modify the code of the existing features or remove any problem or errors from the existing code. 
 
     So what happens in Code Review?
 
@@ -37,6 +37,19 @@ How to do Code Review?
     4. Criticism should be taken in a positive way given by the code reviewers and developers should try to learn and find this as a new opportunity to gain knowledge and identify any sort of weakness.
     5. The process to fix bugs should be well defined and discuss in detail with the developer after the code review is done. All the changes made to the code should be verified before merging the code into the main application code.
 
+References for future reading :
+
+Insights of code review and it's significance
+
+https://dzone.com/articles/what-is-code-review-and-why-do-you-need-it
+
+Code Reviews in Software Development Models
+
+https://www.atlassian.com/agile/software-development/code-reviews
+
+Executing an effective code-review
+
+https://www.cio.com/article/2431557/running-an-effective-code-review.html
     
     
 
